@@ -1,11 +1,12 @@
 ## Hi there 👋
-I'm Leelavathi, a Data Scientist!I like 
+I'm Leelavathi, a Data Scientist!I like painting and solving problems with technology. Recently, I started writing articles to share my knowledge to others, do check it out on [Medium](https://medium.com/@leelavathi_r) 
+
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/leelavathi-r/)
 
 ### More about me
-- 🌱 I’m currently pursuing Masters in Data Science at Illinois Institute of Technology, Chicago.
-- 🔭 I’m currently working on ...
+- 🌱 I work on C++, Python, R, and SQL.
+- 🔭 I’m currently learning Hadoop ecosystems and working on a Big Data Project.
 - 😄 Pronouns: She/Her
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/leelavathi-r/)
 <!--
 **Leelavathi-R/Leelavathi-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
