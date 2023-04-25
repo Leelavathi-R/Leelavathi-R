@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Leelavathi, a Data Scientist!I like 
 
-###More about me
+### More about me
 - 🌱 I’m currently pursuing Masters in Data Science at Illinois Institute of Technology, Chicago.
 - 🔭 I’m currently working on ...
 - 😄 Pronouns: She/Her
