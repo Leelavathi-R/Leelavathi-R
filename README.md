@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Leelavathi, An aspiring Data Scientist!I like painting and solving problems with technology.
+I'm Leelavathi, an aspiring Data Scientist!I like painting and solving problems with technology.
 
 Recently, I started writing articles to share my knowledge to others, do check it out on [Medium](https://medium.com/@leelavathi_r) 
 
