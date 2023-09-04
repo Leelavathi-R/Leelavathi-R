@@ -1,13 +1,13 @@
 ## Hi there 👋
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
 
-Recently, I started writing articles to share my knowledge to others, do check it out on [Medium](https://medium.com/@leelavathi_r) 
+Recently, I started writing articles to share my knowledge with others, Do check it out on [Medium](https://medium.com/@leelavathi_r) 
 
 📫 Reach me on [Linkedin](https://www.linkedin.com/in/leelavathi-r/)
 
 ### More about me
 - 🌱 I work on C++, Python, R, and SQL.
-- 🔭 I’m currently learning Hadoop ecosystems and working on a Big Data Project.
+- 🔭 I’m currently learning and working on a NLP project.
 - 😄 Pronouns: She/Her
 <!--
 **Leelavathi-R/Leelavathi-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
