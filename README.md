@@ -4,6 +4,7 @@ I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems
 Recently, I started writing articles to share my knowledge with others, Do check it out on [Medium](https://medium.com/@leelavathi_r) 
 
 📫 Reach me on [Linkedin](https://www.linkedin.com/in/leelavathi-r/)
+🌐 Personal site: [mysite](https://leelavathi-r.netlify.app)
 
 ### More about me
 - 🌱 I work on C++, Python, R, and SQL.
