@@ -5,7 +5,7 @@ Recently, I started writing articles to share my knowledge with others, Do check
 
 📫 Reach me on [Linkedin](https://www.linkedin.com/in/leelavathi-r/)
 
-🌐 Personal site: [mysite](https://leelavathi-r.netlify.app)
+🌐 Personal site: [Mysite](https://leelavathi-r.netlify.app)
 
 ### More about me
 - 🌱 I work on C++, Python, R, and SQL.
