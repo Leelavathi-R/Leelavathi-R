@@ -2,7 +2,7 @@
 
 [![HitCount](https://hits.dwyl.com/Leelavathi-R/Leelavathi-R.svg?style=flat-square)](http://hits.dwyl.com/Leelavathi-R/Leelavathi-R)
 
-[![HitCount]](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json%3Fcolor%3Dpink)
+![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json%3Fcolor%3Dpink)
 
 
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
