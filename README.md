@@ -1,6 +1,6 @@
-## Hi there 👋  <img align="right" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json%3Fcolor%3Dpink">
+## Hi there 👋 
 
-![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json&label=Profile_Views)
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json&label=Profile_Views&color=green))
 
 
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
