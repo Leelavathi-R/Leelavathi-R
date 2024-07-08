@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=success&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FLeelavathi-R%2FLeelavathi-R)
+[![HitCount](https://hits.dwyl.com/Leelavathi-R/Leelavathi-R.svg?style=flat-square)](http://hits.dwyl.com/Leelavathi-R/Leelavathi-R)
 
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
 
