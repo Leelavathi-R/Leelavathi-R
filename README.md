@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 ![Profile Views](https://hits.dwyl.com/Leelavathi-R/Leelavathi-R.svg)
+
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
 
 Recently, I started writing articles to share my knowledge with others, Do check it out on [Medium](https://medium.com/@leelavathi_r) 
