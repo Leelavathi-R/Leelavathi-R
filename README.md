@@ -4,6 +4,7 @@
 
 ![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json%3Fcolor%3Dpink)
 
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&color=pink&query=value&url=https%3A%2F%2Fhits.dwyl.com%2FLeelavathi-R%2FLeelavathi-R.json)
 
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
 
