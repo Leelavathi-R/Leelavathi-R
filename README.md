@@ -1,10 +1,5 @@
 ## Hi there 👋 
 
-![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FLeelavathi-R)
-
-
-
-
 I'm Leelavathi, an aspiring Data Scientist! I like painting and solving problems with technology.
 
 Recently, I started writing articles to share my knowledge with others, Do check it out on [Medium](https://medium.com/@leelavathi_r) 
