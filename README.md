@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-![Profile Views](https://img.shields.io/badge/Profile_Views-1234-green)
+![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FLeelavathi-R)
 
 
 
