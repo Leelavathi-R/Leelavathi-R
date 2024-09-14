@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
-![Profile Views](https://hits.dwyl.com/Leelavathi-R/Leelavathi-R.svg)
+![Profile Views](https://img.shields.io/badge/Profile_Views-1234-green)
+
 
 
 
